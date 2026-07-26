@@ -58,8 +58,7 @@ Citation details for the primary dataset: [data/raw/student_performance_predicti
 
 `references/prior_work_student_perf_ipynb/` contains a third-party Kaggle notebook (`college-data-exploratory-data-analysis.ipynb`) kept for reference during exploration. It was **not authored by this team**.
 
-The notebook itself does not record a source URL. The closest recorded citation is from the reference materials originally stored alongside it:
-
+Source:
 - [Joelknapp — Student Performance Analysis (Kaggle)](https://www.kaggle.com/code/joelknapp/student-performance-analysis/input)
 
 ## Milestone Plan
