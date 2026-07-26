@@ -56,7 +56,7 @@ Citation details for the primary dataset: [data/raw/student_performance_predicti
 
 ## Prior Work / References
 
-`references/prior_work_student_perf_ipynb/` contains a third-party Kaggle notebook (`college-data-exploratory-data-analysis.ipynb`) kept for reference during exploration. It was **not authored by this team**.
+`references/prior_work_student_perf_ipynb/` contains a third-party Kaggle notebook (`college-data-exploratory-data-analysis.ipynb`) kept for reference during exploration. It was **not authored by our team**.
 
 Source:
 - [Joelknapp — Student Performance Analysis (Kaggle)](https://www.kaggle.com/code/joelknapp/student-performance-analysis/input)
