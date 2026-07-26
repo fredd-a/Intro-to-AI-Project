@@ -62,8 +62,6 @@ The notebook itself does not record a source URL. The closest recorded citation 
 
 - [Joelknapp — Student Performance Analysis (Kaggle)](https://www.kaggle.com/code/joelknapp/student-performance-analysis/input)
 
-[TODO: Confirm this is the exact Kaggle page for `college-data-exploratory-data-analysis.ipynb` — filename and recorded URL do not explicitly match.]
-
 ## Milestone Plan
 
 | Week | Milestone / Key Deliverables |
