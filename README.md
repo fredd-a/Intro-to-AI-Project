@@ -25,6 +25,7 @@ Group 12 Project/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
+|   └── archive/
 ├── references/
 ├── src/
 ├── reports/
@@ -37,6 +38,7 @@ Group 12 Project/
 | `data/raw/` | Original, unmodified datasets |
 | `data/processed/` | Cleaned and transformed data ready for modeling |
 | `notebooks/` | Exploratory analysis and modeling notebooks |
+| `archive/` | Old exploratory analysis and modeling notebooks |
 | `references/` | External reference materials (e.g. third-party Kaggle notebooks) |
 | `src/` | Reusable Python code shared across notebooks |
 | `reports/figures/` | Saved charts and figures for the report |
