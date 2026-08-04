@@ -22,14 +22,14 @@ See the full proposal: [docs/Group12_ProjectProposal.pdf](docs/Group12_ProjectPr
 ```
 Group 12 Project/
 ├── data/
-│   ├── raw/              Raw datasets with SOURCE.md citation files
-│   └── processed/        Cleaned and feature-engineered data
-├── notebooks/            Project Jupyter notebooks
-├── references/           Third-party prior work (not authored by this team)
-├── src/                  Reusable Python modules and scripts
+│   ├── raw/
+│   └── processed/
+├── notebooks/
+├── references/
+├── src/
 ├── reports/
-│   └── figures/          Generated plots and visualizations
-└── docs/                 Project documentation (including the proposal)
+│   └── figures/
+└── docs/
 ```
 
 | Folder | Purpose |
