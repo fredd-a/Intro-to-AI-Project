@@ -48,8 +48,8 @@ Three raw datasets are stored under `data/raw/`:
 
 | Subfolder | File | Status |
 |---|---|---|
-| `student_performance_predictions/` | `student_performance_updated_1000.csv` | **Primary dataset** — used for modeling going forward |
-| `student_alcohol_consumption/` | `student-mat.csv` | Reference/comparison only — not used in the final model |
+| `student_performance_predictions/` | `student_performance_updated_1000.csv` | **Initial dataset** — used in the earlier stages of the project |
+| `student_alcohol_consumption/` | `student-mat.csv` | **Primary dataset** — used for modeling going forward |
 | `student_performance_analysis/` | `Student_performance_data _.csv` | Reference/comparison only — not used in the final model |
 
 ## Dataset Selection
