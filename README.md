@@ -42,7 +42,7 @@ Group 12 Project/
 | `reports/figures/` | Saved charts and figures for the report |
 | `docs/` | Written project documents |
 
-## Dataset
+## Datasets
 
 Three raw datasets are stored under `data/raw/`:
 
@@ -51,6 +51,20 @@ Three raw datasets are stored under `data/raw/`:
 | `student_performance_predictions/` | `student_performance_updated_1000.csv` | **Primary dataset** — used for modeling going forward |
 | `student_alcohol_consumption/` | `student-mat.csv` | Reference/comparison only — not used in the final model |
 | `student_performance_analysis/` | `Student_performance_data _.csv` | Reference/comparison only — not used in the final model |
+
+## Dataset Selection
+An earlier version of this project used the "Student Performance Predictions" 
+dataset, but correlation analysis and baseline modeling 
+revealed no meaningful relationship between the available features and 
+FinalGrade (all |r| < 0.04), and the trained Random Forest performed at 
+baseline accuracy, correctly predicting only the majority class. 
+
+Following this, we decided to switch to the UCI Student Alcohol 
+Consumption dataset, which showed genuine, interpretable signal (failures: 
+r = -0.36, Medu: r = 0.22) and produced a model that meaningfully 
+outperformed baseline (46.8% vs 41.8% accuracy) with real per-class 
+discrimination. See data/raw/student_performance_predictions/SOURCE.md 
+for the original dataset.
 
 Citation details for the primary dataset: [data/raw/student_performance_predictions/SOURCE.md](data/raw/student_performance_predictions/SOURCE.md)
 
