@@ -66,7 +66,7 @@ outperformed baseline (46.8% vs 41.8% accuracy) with real per-class
 discrimination. See data/raw/student_performance_predictions/SOURCE.md 
 for the original dataset.
 
-Citation details for the primary dataset: [data/raw/student_performance_predictions/SOURCE.md](data/raw/student_performance_predictions/SOURCE.md)
+Citation details for the (updated) primary dataset: [data/raw/student_alcohol_consumption/SOURCE.md](data/raw/student_alcohol_consumption/SOURCE.md)
 
 ## Prior Work / References
 
